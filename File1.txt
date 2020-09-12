@@ -1,5 +1,7 @@
 Hello world !!!
 
-Change 1 : -> Login
+Change 1 : -> Login Enhanced
 
 Change 2 : -> Bug1 fix
+
+Change  : commit made by team mate on public branch for WI6
